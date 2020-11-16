@@ -89,7 +89,6 @@ header{
     background: transparent;
   }
   
-  
   .toggle-menu.active i:nth-child(3) {
     top: 25px;
     -webkit-transform: rotateZ(-45deg);
